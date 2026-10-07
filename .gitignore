@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+db.sqlite3-*
+node_modules/
+.expo/
+.env
+.env.*
+!.env.example
+dist/
+dist-android/
